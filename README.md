@@ -11,7 +11,7 @@
 ### Hey，我是 小码大哈
 
 <br />
-一位2024届的大学生，就读于中央民族大学。
+一位2024届的大学生，就读于中央民族大学，正在准备秋招，欢迎交流。
 <br />
 <br />
 
@@ -27,8 +27,3 @@
 - 💬 我的微信: 17702042522
 - 📫 我的邮箱: Zheng20010712@163.com
 
-**技术栈:**
-
-<code><img height="20" style="display:inline" src="./JavaScript.png"></code>
-<code><img height="20" src="./typescript.png"></code>
-<code><img height="20" src="./React.png"></code>
